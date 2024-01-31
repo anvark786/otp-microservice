@@ -19,3 +19,11 @@
 
 # Go workspace file
 go.work
+
+
+# Ignore metadata files
+*.DS_Store
+Thumbs.db
+
+# Ignore the go.sum file
+go.sum
